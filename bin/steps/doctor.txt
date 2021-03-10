@@ -1,0 +1,60 @@
+Dr. Mahir
+56
+Male
+08:00 AM - 11:00 AM
+01680098798
+Neurology
+Yes
+Chittagong Medical College
+Bangladesh
+1989
+n/a
+n/a
+n/a
+n/a
+
+Dr. Shakel
+52
+Male
+11:30 AM - 02:30 PM
+01717303060
+Lab Medicine
+Yes
+Sir Salimullah Medical Collage
+Bangladesh
+1994
+Yes
+Fukui Medical University
+Japan
+2000
+
+Dr. Siam
+58
+Male
+03:00 PM - 06:00 PM
+01689846116
+Cardiology
+Yes
+Dhaka Medical College
+Bangladesh
+1985
+n/a
+n/a
+n/a
+n/a
+
+Dr. Jannat
+53
+Female
+06:30 PM - 09:30 PM
+01521331028
+Child Development Center
+Yes
+Dhaka Medical College
+Bangladesh
+1990
+n/a
+n/a
+n/a
+n/a
+
